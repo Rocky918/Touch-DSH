@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+DerivedData/
+dist/
+ReleaseAssets/
+*.xcresult
+xcuserdata/
+.DS_Store
